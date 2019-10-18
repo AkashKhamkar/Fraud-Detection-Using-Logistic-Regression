@@ -6,7 +6,7 @@
 
 1. Clone or download the repository
 
-2. Create a virtual environment (Optional)
+2. Create a virtual environment 
 
 3. Install Required Dependencies
 ```
