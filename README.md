@@ -8,7 +8,7 @@
 
 2. Create a virtual environment (Optional)
 
-3. Install Required Dependencies
+3. Install Required Dependencie
 ```
 $pip install -r requirements.txt
 ```
